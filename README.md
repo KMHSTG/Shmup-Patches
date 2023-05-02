@@ -25,12 +25,24 @@ Lowers the volume of the beeping sound effect that goes off, whenever your laser
 
 &nbsp; &nbsp;
 -----
+### [Shikigami no Shiro - Boss Explosion Sound Fix [steam]](https://github.com/KMHSTG/Shiki1-BossExplosionSoundFix)
+Fixes the messed up sound effects on the boss death explosions. The patch removes the extremely loud high-pitched noise on all of them, and lowers their volume slightly as well.
+
+&nbsp; &nbsp;
+-----
+### [Shikigami no Shiro - No Background [steam]](https://github.com/KMHSTG/Shiki1-NoBackground)
+Removes the UI background art entirely, so you can play the game with just the central game area on a black background.
+
+&nbsp; &nbsp;
+-----
 ### [Strikers 1999 / 1945-III - Unlock X-36 [mame]](https://github.com/KMHSTG/Strikers1999-UnlockX36)
 Makes the X-36 unlocked by default in the Strikers 1999/1945-III MAME rom. This is very useful for anyone who wants to record demos in MAME, since it allows you to record and playback demos with nvram disabled, without losing access to the X-36. Demos are likely to desync without disabling nvram for this game. 
 
 &nbsp; &nbsp;
 -----
 ### **Changelog**
+2023-05-02 - Added Shikigami no Shiro - Boss Explosion Sound Fix [steam]  
+2023-05-02 - Added Shikigami no Shiro - No Background [steam]  
 2023-04-19 - Added Ketsui - Soft Lock-On Sound [mame]  
 2023-04-17 - Added Gunbird 2 - Unlock Aine [mame]  
 2023-04-17 - Added Strikers 1999 / 1945-III - Unlock X-36 [mame]  
