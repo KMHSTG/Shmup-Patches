@@ -5,8 +5,18 @@ This is an alphabetically sorted list of all the patches I have made so far, alo
 &nbsp; &nbsp;  
 -----
 
+### [Dangun Feveron - No Voices [mame]](https://github.com/KMHSTG/DangunFeveron-NoVoices)
+Removes the voices from the game.
+
+&nbsp; &nbsp;
+-----
 ### [Dodonpachi DFK / Resurrection - BL Arrange No Lock-On Sound [steam]](https://github.com/KMHSTG/DaifukkatsuBLA-NoLockOnSound)
 Removes the beeping sound effect that goes off, whenever your laser/focused shot locks onto an enemy.
+
+&nbsp; &nbsp;
+-----
+### [Great Mahou Daisakusen - Unlock Secret Characters [mame]](https://github.com/KMHSTG/GreatMahou-UnlockAll)
+Makes the four secret characters unlocked by default.
 
 &nbsp; &nbsp;
 -----
@@ -22,6 +32,11 @@ Removes the beeping sound effect that goes off, whenever your laser/focused shot
 -----
 ### [Ketsui - Soft Lock-On Sound [mame]](https://github.com/KMHSTG/Ketsui-SoftLockOnSound)
 Lowers the volume of the beeping sound effect that goes off, whenever your laser/focused shot locks onto an enemy.
+
+&nbsp; &nbsp;
+-----
+### [Sengoku Blade - Unlock Aine [mame]](https://github.com/KMHSTG/SengokuBlade-UnlockAine)
+Unlocks Aine to be selectable with a single "up" input on the random select square.
 
 &nbsp; &nbsp;
 -----
@@ -41,6 +56,9 @@ Makes the X-36 unlocked by default in the Strikers 1999/1945-III MAME rom. This 
 &nbsp; &nbsp;
 -----
 ### **Changelog**
+2023-05-13 - Added Sengoku Blade - Unlock Aine [mame]  
+2023-05-13 - Added Great Mahou Daisakusen - Unlock Secret Characters [mame]  
+2023-05-13 - Added Dangun Feveron - No Voices [mame]  
 2023-05-02 - Added Shikigami no Shiro - Boss Explosion Sound Fix [steam]  
 2023-05-02 - Added Shikigami no Shiro - No Background [steam]  
 2023-04-19 - Added Ketsui - Soft Lock-On Sound [mame]  
