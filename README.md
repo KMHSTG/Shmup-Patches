@@ -55,7 +55,13 @@ Makes the X-36 unlocked by default in the Strikers 1999/1945-III MAME rom. This 
 
 &nbsp; &nbsp;
 -----
+### [Thunder Dragon 2 - No Voices [mame]](https://github.com/KMHSTG/ThunderDragon2-NoVoices)
+Removes the voices from the game.
+
+&nbsp; &nbsp;
+-----
 ### **Changelog**
+2023-05-15 - Added Thunder Dragon 2 - No Voices [mame]  
 2023-05-13 - Added Sengoku Blade - Unlock Aine [mame]  
 2023-05-13 - Added Great Mahou Daisakusen - Unlock Secret Characters [mame]  
 2023-05-13 - Added Dangun Feveron - No Voices [mame]  
