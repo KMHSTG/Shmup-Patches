@@ -5,6 +5,11 @@ This is an alphabetically sorted list of all the patches I have made so far, alo
 &nbsp; &nbsp;  
 -----
 
+### [Blazing Star - Replace Bonus Sound [mame]](https://github.com/KMHSTG/BlazingStar-ReplaceBonusSound)
+Changes the sound (voice) that plays when you pick up a bonus item, replacing it with the lucky panel item pickup sound effect.
+
+&nbsp; &nbsp;
+-----
 ### [Dangun Feveron - No Voices [mame]](https://github.com/KMHSTG/DangunFeveron-NoVoices)
 Removes the voices from the game.
 
@@ -61,6 +66,8 @@ Removes the voices from the game.
 &nbsp; &nbsp;
 -----
 ### **Changelog**
+2023-06-04 - Added Blazing Star - Replace Bonus Sound [mame]  
+2023-06-04 - Updated Dangun Feveron - No Voices [mame]  
 2023-05-15 - Added Thunder Dragon 2 - No Voices [mame]  
 2023-05-13 - Added Sengoku Blade - Unlock Aine [mame]  
 2023-05-13 - Added Great Mahou Daisakusen - Unlock Secret Characters [mame]  
