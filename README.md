@@ -1,6 +1,6 @@
-# **KMH's Shmup Improvement Patches**
+# **KMH's Shmup Patches**
 
-This is an alphabetically sorted list of all the patches I have made so far, along with a short description of their purpose. More information and patching instructions can be found on the respective pages.
+This is an alphabetically sorted list of all the patches I have made so far, along with a short description of their purpose. More information and patching instructions can be found on the respective pages, by following the links below.
 
 &nbsp; &nbsp;  
 -----
