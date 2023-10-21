@@ -64,7 +64,13 @@ Removes the voices from the game.
 
 &nbsp;
 ##
+### [Touhou Project - No Background [pc/win]](https://github.com/KMHSTG/Touhou-NoBackground)
+Removes the UI background art during gameplay, leaving just the gameplay area and UI elements on a black background.
+
+&nbsp;
+##
 ### **Changelog**
+2023-10-21 - Added Touhou Project - No Background [pc/win]  
 2023-06-04 - Added Blazing Star - Replace Bonus Sound [mame]  
 2023-06-04 - Updated Dangun Feveron - No Voices [mame]  
 2023-05-15 - Added Thunder Dragon 2 - No Voices [mame]  
